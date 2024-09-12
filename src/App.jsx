@@ -8,7 +8,7 @@ function App() {
   return (
     <>
         <div className='title'>
-            <h2>Abroad Studies</h2>
+            <h2>Overseas Education</h2>
         </div>
         <CardList/>
     </>
