@@ -1,7 +1,14 @@
 
+body {
+    background-image: url('./assets/gray-abstract-wireframe-technology-background.jpg');  
+    background-repeat: no-repeat;  
+    background-size: cover;        
+    background-position: center; 
+}
+
 .title {
     text-align: center;
-    margin: 20px 5px;
+    margin: 20px 3px;
     font-size: 2em; 
     color: #333; 
 }
@@ -15,6 +22,11 @@
     align-items: center;
 }
 
+.small-image {
+    width: 45px;
+    height: 25px;
+  }
+  
 
 .card {
     width: 100%; 

@@ -6,6 +6,7 @@ export default function Cardcomponent({item}) {
             <div className="card">
                 <div className="card-name">
                     <h2>{item.name}</h2>
+                    <span><img className="small-image" src={item.image} alt="" /></span>
                 </div>
                 <div className="out-main">
                 <div className="ranking">

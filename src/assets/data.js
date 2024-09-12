@@ -2,6 +2,7 @@
 const data = [
     {
     "name": "Ireland",
+    "image": "https://cdn.britannica.com/33/1733-050-04264811/FLAG-Ireland.jpg",
     "academic_reputation": {
     "university_rankings": {
     "QS_World_Ranking": "2 universities in the top 200",
@@ -18,6 +19,7 @@ const data = [
     },
     {
     "name": "UK",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/800px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
     "academic_reputation": {
     "university_rankings": {
     "QS_World_Ranking": "4 of the top 10",
